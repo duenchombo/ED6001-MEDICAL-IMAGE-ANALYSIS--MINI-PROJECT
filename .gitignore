@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+ExperimentalResults/*
+!ExperimentalResults/SVM/
+!ExperimentalResults/SVM/**
+LabIACD_Project1.pdf
+LICENSE

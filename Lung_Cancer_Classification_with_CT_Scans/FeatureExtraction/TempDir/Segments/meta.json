@@ -1,0 +1,42 @@
+{
+  "BodyPartExamined" : "CHEST",
+  "ClinicalTrialCoordinatingCenterName" : "TCIA",
+  "ClinicalTrialSeriesID" : "Session1",
+  "ClinicalTrialTimePointID" : "1",
+  "ContentCreatorName" : "Reader1",
+  "InstanceNumber" : "1",
+  "SeriesDescription" : "Segmentation of Nodule 8 - Annotation 1",
+  "SeriesNumber" : "30373",
+  "segmentAttributes" : 
+  [
+    [
+      {
+        "AnatomicRegionSequence" : 
+        {
+          "CodeMeaning" : "Lung",
+          "CodeValue" : "T-28000",
+          "CodingSchemeDesignator" : "SRT"
+        },
+        "SegmentAlgorithmType" : "MANUAL",
+        "SegmentDescription" : "Nodule 8 - Annotation 1",
+        "SegmentLabel" : "Nodule 8 - Annotation 1",
+        "SegmentedPropertyCategoryCodeSequence" : 
+        {
+          "CodeMeaning" : "Morphological Abnormal Structure",
+          "CodeValue" : "M-01000",
+          "CodingSchemeDesignator" : "SRT"
+        },
+        "SegmentedPropertyTypeCodeSequence" : 
+        {
+          "CodeMeaning" : "Nodule",
+          "CodeValue" : "M-03010",
+          "CodingSchemeDesignator" : "SRT"
+        },
+        "TrackingIdentifier" : "Nodule 8",
+        "TrackingUniqueIdentifier" : "2.25.31845500529245104303563241740890808088798738378221695355076",
+        "labelID" : 1,
+        "recommendedDisplayRGBValue" : [ 128, 174, 128 ]
+      }
+    ]
+  ]
+}
